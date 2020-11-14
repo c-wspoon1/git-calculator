@@ -38,6 +38,6 @@ public class Operations {
 
 
     public static double divide(double x, double y) {
-        return 0;
+        return x / y;
     }
 }
